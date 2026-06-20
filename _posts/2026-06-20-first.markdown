@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Minha primeira postagem!"
+date:   2026-06-20 19:12:04 -0300
+categories: jekyll update
+---
+Um ótimo dia a todos! Essa é a minha primeira postagem! Estou bem feliz!
