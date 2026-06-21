@@ -4,5 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Meu nome é Piêtro Braga e sou desenvolvedor. Gosto de escrever sobre diversos assuntos envolvendo programação, saúde mental, religião, jogos e o que vier na mente. Seja bem-vindo!
-[github](https://github.com/pietroBragaAquinoJunior)
+Decidi criar um blog para guardar memórias e pensamentos. Talvez no futuro, influenciar positivamente outras pessoas. No futuro, quero poder voltar aqui e me lembrar de eventos felizes e pensamentos edificantes. Recomendo que todas as pessoas tenham também um diário para recordação. Este aqui eu criei utilizando jekyll, uma ferramenta muito simples de usar e publicar aqui no github.
+
+Link da ferramenta:
+[jekyll](https://jekyllrb.com/)
+
+Deus abençoe a todos, uma ótima semana.
