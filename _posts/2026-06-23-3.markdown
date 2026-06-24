@@ -12,13 +12,15 @@ Provavelmente todos que estão lendo esse texto conseguem imaginar a razão do p
 
 O problema de usar IA vai muito além da destruição da capacidade de raciocínio, impacta a memória também. Afinal, é muito difícil gravar algo que não foi entendido. Se você não entendeu, como espera decorar a solução? Eu poderia explorar ainda mais esse assunto e falar como a IA destrói propósito, honra e mérito, assuntos bem mais profundos, mas por hoje é suficiente. Se você acha que eu estou exagerando, ainda bem que não conhece Sócrates. Ele se preocupava com o impacto da escrita na memória e sobre o jeito de aprender, e é por isso que ele mesmo, não escreveu uma linha sequer.
 
-Faça como George Hortz, o cara que crackeou o ps3, é um dos maiores programadores da atualidade, programa porque ama, e também tem um blog jekyll como esse que você está lendo. "The real story of this era will be who manages to avoid harming themselves in their AI psychosis." "A verdadeira história dessa era será quem consegue evitar se machucar em sua psicose de IA."
+Faça como ***George Hortz***, o cara que crackeou o ps3, é um dos maiores programadores da atualidade, programa porque ama, e também tem um blog jekyll como esse que você está lendo. "The real story of this era will be who manages to avoid harming themselves in their AI psychosis." "A verdadeira história dessa era será quem consegue evitar se machucar em sua psicose de IA."
 
-![geohot](/assets/images/3geohot.jpg)
+![geohot](/blog/assets/images/3geohot.jpg)
 
 [link postagem geohot contra ia](https://geohot.github.io/blog/jekyll/update/2026/05/24/the-eternal-sloptember.html)
 
 > "A necessidade põe o cérebro a caminho."
 > Dona Benta, Monteiro Lobato.
+
+![dona benta](/blog/assets/images/3dona_benta.jpg)
 
 Desejo um ótimo dia a todos.
