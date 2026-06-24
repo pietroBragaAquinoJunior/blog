@@ -23,7 +23,7 @@ email: pietrobragaaquino@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Gosto de escrever sobre programação, religião, saúde mental, jogos entre outros.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://pietrobragaaquinojunior.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pietrobragaaquinojunior.github.io/blog" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  pietroBragaAquino
 
