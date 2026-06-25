@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Não me arrependo de parar de usar IA."
+title:  "Técnica para melhorar a minha rotina."
 date:   2026-06-25 16:34:00 -0300
 categories: rotina
 ---
