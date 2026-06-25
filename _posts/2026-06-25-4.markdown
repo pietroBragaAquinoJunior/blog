@@ -21,4 +21,4 @@ Gostou dessa estratégia? Eu já usei ela antes, vou voltar a usar. Não se esqu
 > "A vida não examinada não vale a pena ser vivida."
 > Sócrates
 
-![Peter Parker](/blog/assets/images/4peter-parker-terno.jpg)
+<img src="/blog/assets/images/4peter-parker-terno.jpg" alt="drawing" width="400"/>
