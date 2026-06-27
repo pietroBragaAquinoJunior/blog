@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Essa postagem é importante. Vai por mim, leia."
+title:  "Aprenda com a formiga."
 date:   2026-06-27 11:26:00 -0300
-categories: trabalho
+categories: aprendizado
 ---
 
 Não vou colocar memes, pois acredito que o assunto hoje é mais sério e reflexivo. Acabei de assistir esse vídeo no youtube:
